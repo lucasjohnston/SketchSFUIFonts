@@ -18,6 +18,8 @@ Now you can have `SF UI Display`, `SF UI Text`, `SF Compact Display`, `SF Compac
 
 
 This archive contains all of the `SF UI` fonts. You can download the `SF Pro` + `SF Compact` fonts directly from Apple's site here: https://developer.apple.com/design/downloads/SF-Font.dmg
+
+
 Goes without saying, I didn't create any of this. All of this is Apple's IP, all rights go to them, etc. I just put it in one place.
 
 Enjoy! ⚡
